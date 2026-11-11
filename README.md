@@ -1,3 +1,5 @@
+<img width="1762" height="915" alt="螢幕擷取畫面 2026-11-11 151759" src="https://github.com/user-attachments/assets/5c198878-9f7b-4d75-bd86-e56a9005efec" />
+<img width="1601" height="868" alt="螢幕擷取畫面 2026-11-11 150025" src="https://github.com/user-attachments/assets/53e8c846-5a61-4786-83af-956178a7441b" />
 - 👋 Hi, I’m @enyangsun
 - 👀 I’m interested in novel
 - 🌱 I’m currently learning ...cooking
