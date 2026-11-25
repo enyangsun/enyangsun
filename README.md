@@ -17,4 +17,5 @@ You can click the Preview link to take a look at your changes.
 <img width="1892" height="982" alt="image" src="https://github.com/user-attachments/assets/85655545-aec2-4fbe-8aa8-dda4611cb394" />
 <img width="1852" height="916" alt="image" src="https://github.com/user-attachments/assets/45283dbb-acf1-4728-a0e3-6f359b2cd451" />
 <img width="1500" height="916" alt="image" src="https://github.com/user-attachments/assets/a4a2e676-ff9a-4722-b8a5-565b8f6efdef" />
+<img width="1569" height="819" alt="螢幕擷取畫面 2026-11-25 155936" src="https://github.com/user-attachments/assets/cf95fa2f-2926-4330-a0c7-c534c2a78d6d" />
 
